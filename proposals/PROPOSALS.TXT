@@ -1,0 +1,28 @@
+Topic: Crowdsourcing translation
+
+
+Problem definition:
+For most statistical machine translation problems, one of the first difficult tasks that the researchers face is gathering the appropriate data. For instance, the parallel language corpus between two languages such as English and French, German, Italian, etc are relatively easy to gather; however, for rare languages, constructing the dataset is very costly and time-consuming.The idea of crowdsourcing translation is introduced to reduce the cost that may incur while employing professional translators; instead, the general idea is to hire many non-professional translators and use their data to start statistical machine translation research. However, it is really difficult to know the quality of non-professionals' translated sentences before manually checking it. Again, manually checking each translated sentence from non-professionals are costly too.
+
+The goal of the term project is to:
+
+
+
+Reference for the research topic:
+The current project is inspired after discussing possible topics with Dr. Chris Callison-Burch. For that reason, the term project's reference will be mainly based on his and his colleagues' works in Crowdsourcing Translation. Additional materials will be utilized as we make further progress in the project.
+
+Ambati, Vogel, and Carbonell. "Active Learning and Crowd-Sourcing for Machine Translation"
+Snow, O'Connor, Jurafsky, and Ng. "Cheap and Fast--But Is It Good? Evaluating Non-Expert Annotations for Natural Language Tasks"
+Omar Zaidan and Chris Callison-Burch. "Crowdsourcing Translation: Professional Quality from Non-Professionals." 2011. In Proceedings ACL-2011.
+
+
+Objective Functions:
+- Sentences translated by professionals (reference sentencecs) are only available to the graders
+- Graders are going to calculate the BLEU score using reference sentence against each possible non-professional translated sentences, and get a rank according to the sorted BLUE score.
+- Let students come up with their own way to rank the non-professional translated sentences; and return their own rank.
+- Given the grader's ranks, compute the edit distance of the students' ranks, that is, the minimum number of swaps needed to match the grader's ranks. Summing these over the entire test set will give the objective score.
+- Student with the lowerst objective score will be the winner. 
+
+
+What data will you use to train the system:
+The data we will use for the term project is the same dataset used by Dr. Chris Callison-Burch (The Urdu-to-English 2009 NIST). 
