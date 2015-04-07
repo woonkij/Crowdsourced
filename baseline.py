@@ -12,6 +12,7 @@ optparser.add_option("-s", "--readSurvey", dest='survey', default='data/survey.t
 optparser.add_option("-d", "--baselineData", dest='data', default=None, help="Data for learning algorithms")
 (opts, _) = optparser.parse_args()
 
+
 if opts.data is None:
 
 	# substitute strings in survey.tsv
@@ -74,6 +75,9 @@ else:
 	with open(r'data/data.json', 'rb') as fp:
 		feats, best_idx, candidateDict = json.load(fp)
 
+
+
+
 ############### Classification
 
 y = np.array( map(int, best_idx.values()) )
@@ -88,6 +92,8 @@ X_train, y_train = X[0:358,], y[0:358,]
 
 print "Training classifier(s)...\n"
 
+np.random.seed(1)
+
 rf = RandomForestClassifier(n_estimators = 150)
 rf.fit(X_train, y_train)
 
@@ -99,24 +105,30 @@ rf.fit(X_train, y_train)
 # svc = GridSearchCV( SVC(), svm_param_grid )
 # svm = svc.fit(X_train, y_train).best_estimator_
 
+
 # predicts index of best translation (0,1,2, or 3)
 predictions = rf.predict(X)
+
+
 
 
 ################# write output to file
 
 out = open("baseline_output.txt", 'w')
 
-for (i, p) in enumerate(predictions):
-	if opts.data is None:
+if opts.data is None:
+	for (i, p) in enumerate(predictions):
 		out.write(candidateDict[i + 1][p] + '\n')
-	else:
+else:
+	for (i, p) in enumerate(predictions):
 		out.write(candidateDict[str(i + 1)][p].encode('utf-8') + '\n')
+
 out.close()
 
 
 # out = open("oracle_output.txt", 'w')
 
+# # 'best' translations corresponding to best_idx computed above
 # for (i, c) in enumerate(y):
 # 	out.write(candidateDict[i + 1][c] + '\n')
 # out.close()
