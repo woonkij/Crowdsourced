@@ -35,7 +35,7 @@ answerList = [sourceDict, referenceDict, candidateDict, workerDict]
 
 
 #START DEFAULT OUTPUT
-write = open("output.txt", "a")
+write = open("output.txt", 'w')
 
 #DEFAULT: Choose first candidate sentence among 4 possible sentences
 for i in xrange(1, len(candidateDict) + 1):
