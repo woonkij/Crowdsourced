@@ -1,4 +1,6 @@
-import optparse, json
+#!/usr/bin/env python
+
+import optparse, json, sys
 from smoothedBLEU import smoothedBLEU
 import numpy as np
 from sklearn.preprocessing import Imputer
@@ -27,10 +29,10 @@ if opts.data is None:
 		workerFeatures[t[0]] = [sub[x] if x in sub.keys() else int(x) for x in t[1:]]
 	f_survey.close()
 	workerFeatures['n/a'] = [float('NaN') for _ in xrange(6)]
-	# print workerFeatures
+	# sys.stderr.write(workerFeatures,'\n')
 
 
-	print "Building data set...\n"
+	sys.stderr.write("Building data set...\n")
 
 	file = open(opts.input)
 	txt = file.read().splitlines()
@@ -58,7 +60,7 @@ if opts.data is None:
 		for (j, candidate) in enumerate(candidateDict[i]):
 			if candidate != 'n/a':
 				for reference in referenceDict[i]:
-					if reference != 'n/a'
+					if reference != 'n/a':
 						try: scores[j] += smoothedBLEU(candidate, reference)
 						except: pass
 
@@ -90,7 +92,7 @@ X = imp.fit_transform(X)
 # 20% used for training data, as specified in proposal
 X_train, y_train = X[0:358,], y[0:358,]
 
-print "Training classifier(s)...\n"
+sys.stderr.write("Training classifier(s)...\n")
 
 np.random.seed(1)
 
@@ -114,16 +116,17 @@ predictions = rf.predict(X)
 
 ################# write output to file
 
-out = open("baseline_output.txt", 'w')
+# out = open("baseline_output.txt", 'w')
 
 if opts.data is None:
 	for (i, p) in enumerate(predictions):
-		out.write(candidateDict[i + 1][p] + '\n')
+		sys.stdout.write(candidateDict[i + 1][p] + '\n')
 else:
 	for (i, p) in enumerate(predictions):
-		out.write(candidateDict[str(i + 1)][p].encode('utf-8') + '\n')
+		sys.stdout.write(candidateDict[str(i + 1)][p].encode('utf-8') + '\n')
 
-out.close()
+# out.close()
+
 
 
 # out = open("oracle_output.txt", 'w')

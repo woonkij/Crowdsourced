@@ -20,14 +20,14 @@ According to scientists, eat a lot during fever.
 Researchers of the Michigan State University say that mice getting diet food were found to have very less ability to fight the infection and their chances of death also increased. On the other hand, mice getting regular diet had more energy against the flu virus
 According to Professor Elizabeth Gardner, people who do dieting will not be effected with flue sooner but also they will take more time to recover from it.
 she also said that those people who have taken the flue vaccine should also avoid dieting during few months of winter.
-'first nuclear experiment was done in 1990'
-Thomas Reid who has worked in the Lever national laboratory of America as a Weapon designer, has written this book with the help of the Ex director of technical intelligence at Las Elmos national laboratory, Dani Stillman.
-this book was titled, 'Nuclear Express: political history of bomb and its proliferation' and both writers have claimed that which ever country first made a nuclear bomb either stole the nuclear secrets of another country or they had the support of another nuclear power.
-in an interview with US news, Thomas Reid said that in 1990 during Benazir Bhutto's rule, China experimented Pakistan's first nuclear bomb.
-Thomas Reid said that based to many reasons, he has a belief that China had experimented Pakistan's first nuclear bomb.
-the reasons include the design of the bomb and some information retrieved during talks with the Chinese scientists.
-he further added that this was the reason that in 1998 only in a span of two weeks and three days, Pakistan was able to carry out nuclear experiments as a reply to Indian nuclear experiments.
-Thomas Reid reminded that in 1961 Russia suddenly carried out a nuclear experiment and besides possessing the bomb for a long time, it took 17 days for America to carry out nuclear experiment.
+First nuclear test was done in 1990
+Thomas Reid, who worked in the Leur National Laboratory as a weapon designer had written this book with the help of Los Alamos National Laboratory's former Technical Intelligence Director, Danny Staleman.
+In this book, called 'Nuclear Express', the political history of the bomb and its spread, both the authors claim that whichever country made an atom bomb either stole the nuclear secrets from another country or they got help from a nuclear power.
+Thomas Reid said in an interview with US News, that China tested Pakistan's first atom bomb in 1990, during the term of the Prime Minister Benazir Bhutto.
+Thomas Reid said that due to many factors, he is certain that China tested Pakistan's first nuclear bomb.
+Among the factors are the design of the bomb, and information he gathered from Chinese scientists.
+He further added that that was the reason that Pakistan was able to reply to India's Nuclear test with a nuclear test in just 2 weeks and 3 days.
+Thomas Reid reminded that in 1961, Russia suddenly performed a nuclear test, in response to which America took 17 days to preform a test, despite having this bomb for a long time.
 He added that the atom bomb that was tested on May 19th 1998 by Pakistan was made very carefully and that Pakistani scientists had complete reliance on it.
 When Thomas Reid was asked whether China provided nuclear technology to Pakistan, he said because India was the common enemy of both China and Pakistan.
 He said that there was proof available that Dr. Abdul Qadeer Khan used the Chinese design, and later on the documents which were received from Libya also verify this fact.
@@ -61,13 +61,13 @@ However, the letter did not state whether there would be a ban on separate girls
 According to this pamphlet if any women goes to school or any government office to get education or make the Identity car then there would be strict punishment for her and her family when she is caught.
 Apart from this the Police has also reported that on Sunday, in the District of Banu, Meeran Shah Road there was a nuclear Blast at the tunnel.As a result of which a road passer was killed and one man is injured.
 The injured was admitted to the Banu Soul Hospital.
-More bodies were recovered from the target killings.
-According to the police, it was on Sunday morning at the Green Chowk Mingora areas Sohrab Khan Chowk that two bodies were moved to the head off.
-The Police said that they were killed in the Frontier Corps.
-The dead bodies were found at 11 pm and witnesses say that a letter was there near the dead bodies which said that they themselves are responsible for their deaths.
-Local people say that at around 11 pm dead bodies were lying in the market. But however the security personnels have shifted the two bodies.
-Incidents of target killings have increased to a dangerous extent in the location of Mingora and the near areas during the last few weeks.
-In which it is mostly common citizens including women and security personnels were killed.
+Target Killing: More dead bodies found.
+According to the police, on the morning of Sunday, two dead bodies were found from the areas of the main Mangora, Green square and Sohrab khan square, in which their heads were separated from their bodies.
+The deceased were told to be related to Frontier core and the police.
+An eye witness said that a letter was also found near the dead bodies in which there was a threat that who ever picks up these dead bodies before 11 in the morning, he is responsible for his own death.
+Locals say that the dead bodies were lying the market until 11am but later the security officials picked both the dead bodies and transferred them to the hospital.
+There has been a dangerous rise in the target killing during the last few weeks in the main city Mangora and the surrounding areas.
+In which local citizens including women and security officials are being killed
 According to local sources, until now, more than thirty people were killed in such incidents.
 No organisation has accepted responsibility for these deaths yet.
 On Saturday, the spokesperson for the local Taliban in Swat, Muslim Khan told BBC that among the bodies found on Friday, three belonged to his companions, among which the body of Dewli's Taliban commander Rafi'ullah was also included.
@@ -198,16 +198,16 @@ On the occasion of oath taking, members of the Peoples Party shouted slogans in 
 3.5 million users effected from the virus.
 discovered for the first time in October 2008, this virus known by the names like Confecker, Down and Up and Kido.
 Microsoft had released a patch to tackle with this virus but despite of that almost 3.5 million computer and memory sticks have been affected with it.
-Experts say that number of infected computers could be many.
-To settle with this, consumer has to use Microsoft's page 'MS08067'.
-Microsoft says that virus which affects thousands of computers, searches for windows file 'services.exe' and adds itself into its code.
-After that virus makes itself into a DLL file into system folder of windows.
-This virus creates its file name too.
-Then changes the details of the registry of windows.
-This virus creates a problem after it gets active which comes out as 'HTTP Server' and changes the restore point of the machine.
-After that it download files from the hackers website.
-Microsoft has to say that this virus has affected computers in different countries.
-These countries include China, Brazil, Russia, India, America and Britain.
+Experts say that the number of affected computers might be quite large.
+To get rid of this, dealers will have to use Microsoft's MS08-067 patch.
+Microsoft says that the virus which has affected thousands of computers searches for the Windows file 'services.exe' and injects its code into that.
+Then, this virus becomes a DLL type of file, in the Windows system folder.
+This virus also creates the name of the file.
+It then changes the Windows registration details.
+After this virus is activated, it creates a problem, which appears as an HTTP server, and changes the restore point of the machine.
+It then downloads files from hackers' websites.
+Microsoft claims that this virus has affected computers in various countries.
+China, Brazil, Russia, India, America and England are some of those countries.
 'The Demand for a Quick Report on Indian Information'
 In an interview with the representatives of the media, after a meeting of the Home Ministry, he said that the given by India
 information will help in investigation in these regards.
@@ -288,8 +288,8 @@ Be clear that Hizb-ul-Mujahideen is active in Jammu Kashmir for the last eight y
 Hizb-ul-Mujahideen declared one sided cease fire in July 2000 for the first time after which Indian government and Hizb commandos had a talk.
 But the cease fire was over in only 15 days.
 Later many senior commandos of Hizb-ul-Mujahideen were killed in different operations.
-On Thursday, the renowned daily, 'The News' wrote about the extremist groups operating in Pakistan occupied Kashmir, that Lashkar-e-Taiba and Hizbul Mujahideen have decided to revise their Kashmir policy.
-It should be clear that the policy of both groups until now, has been that the Kashmir issue could be resolved through armed resistance.
+It was written in the famous newspaper 'Daily News' of Pakistan on Thursday, about the Pakistan extremists living in Kashmir and the groups of Hizbul Mujahideen Lashkar-e-Tayaba.
+It should be kept in mind that now with the policy of two organizations the Kashmir issue can be resolved through the armed resistance.
 Dera Bugti: Explosion on gas pipe line
 According to police officials 18 inches diameter pipeline of Loti Gas Field to Pir Koh has been destroyed by explosion.
 This pipeline is directed towards Sui Plant.
@@ -310,14 +310,14 @@ Khaqan Babar is related to DMG ( District Management Group).
 Hafiz Khalid Waleed has informed that Lahore division commissioner Khusro Parvez Khan came to the Tayyaba Center on Sunday with the police and civil authority and inspected several parts of the center. Khalid Waleed has disapproved of placement of an Administrator from the government in the Jamat-ud-Dawa Center. And said that earlier operations of the government has already decreased the number of patients in the hospital and students in the school.
 Here according to a press release by Jamat-ud-Dawa, party's chief Hafiz Saeed has written a letter for the General Secretary of United Nations, Ban Ki Mon, and Committee for Taliban, in a reques is made to cancel the restrictions on the party made by the Security Council.
 It says in the letter that the one sided decision of the Security Council on banning Jamat-ud-Dawa is unfair. And Jamat-ud-Dawa has no relation with terrorism but it is busy in the activities of charity.
-Aidhi's Gaza humanitarian mission
-After passing many stages involved in getting the permissions required for entering Gaza, he has been successful in reaching Egypt from New York.
-Speaking to BBC Urdu service from Cairo, he said that he was not able to reach Gaza yet, as Egypt and Israel have placed many barriers.
-He said "It has been eight days since I got here, and I have still not got the permission to enter Gaza."
-"I am now in Cairo, and hopefully I will be permitted to reach Gaza tomorrow".
-Giving details, he said: "At first, I was given a seven day visa to enter Gaza, and later on, upon insisting, the Pakistani officials helped me out and increased it to a one month visa, but on the condition that I would go only once, i.e. it would be a single entry visa.
-He said that he had brought his son and daughters with him, and that they wanted to do some social work.
-"I have brought some money".
+Edhi on the aid mission of Gaza.
+After going through many steps of receiving permission required to enter Gaza, he has only been successful in reaching Egypt from New york.
+He said while talking to BBC Urdu service from Qahira that he has still not reached Gaza because Egypt and Israel has created many obstacles.
+He said that it has been 8 days since I am here but I still have not received the permission to enter Gaza.
+"I am currently in Qahira and hopefully will get permission to go to Gaza
+He told explaining that: "First I was given only 7 days visa to go to Gaza and later on my insisting, Pakistani officials helped me and had it extended for one month but on this condition that I will go to Gaza only once that is single entry.
+He said that he has his son and daughters with him and they want to do charity work in Gaza.
+I have brought some money.
 Red Cross Egypt has been given a cheque of 100,000 dollar and 10,000 dollar in cash so it can send aid materials to Gaza
 four more ministers in the cabinet, total of sixty three
 four new federal ministers include two from Mutahida Qaumi Movement and Two from Jamiat Ulamae Islam Fazalur Rehman Group.
@@ -331,13 +331,13 @@ Azam Swati was elected as a free senator and is considered to be one of the rich
 Moulana Ataur Rahman is a member of the National Assembly and is Moulana Fazlur Rahman's younger brother.
 It should be remembered that four important officeholders are not members of the National Assembly.
 It should be clear that on 3rd December, 2008 28 new ministers and 18 ministers of state were taken into the cabinet. At that time it was believed that members of the MQM would also be included in the cabinet, but due to a difference in the distribution of ministries, MQM was not included.
-Balochistan pipe line blown up.
-According to the police, this was an eighteen inch wide pipe line that goes to the various wells in the gas plant of Peer mountain, and it was blown up by unidentified individuals in the morning.
-Apart from this, yesterday, well number three was destroyed in a blast and a gas pipe line was harmed by a blast near Allah Yaar hill.
-The responsibility for these blasts were claimed by the spokesperson for the banned organization, Baloch Republican Army, Sarbaz Baloch.
-From the beginning of the year 2009, there was an increase in the number of extremist incidents.
-In this month, there were dozens of incidents of gas pipes being blown up, and there were also an increase in attacks on trains and people from the state of Punjab.
-Though the Chief Minister of Balochistan, Nawab Aslam Raeesani, expressed distress over these incidents, and the police were instructed to share information with intelligence agencies, but it was still not possible to stop these incidents.
+Baluchistan, pipe line was destroyed.
+According to Police, 18 inch diameter pipe line that goes to different wells in Pee Koh was destroyed in the morning by unidentified people.
+A part from this yesterday well number 3 in Sui was completely destroyed and a gas pipe line was damaged near Dera Illa Yar.
+Sirbaz Khan who is the representative of Disbanded organization Baloch Republican Army has claimed the responsibility of the attacks.
+Violent incidents has increased in Balochistan since the start of year 2009.
+This month dozens of gas pipe lines have been destroyed and the attacks have increased on trains and people from Punjab.
+Although Chief Minister Balochistan Nawab Aslam Raeesaani has expressed his concerns and ordered Police to exchange information with the secret agencies however it has been impossible to stop these incidents
 Approval of package of 819 billion dollars for economic revival.
 No member related to the Republican party did not vote in favor of this plan of President Obama.
 Members of the republican party said that the economic plan is very expensive and will not prove effective.
@@ -398,16 +398,16 @@ Congress, which won seventy seats is willing to make interum government in allia
 Today the party workers warmly welcomed Omer Abdullah on his arrival to Sirinagar
 On this occasion Omer Abdullah said that he will play his role to resume talks between the Indian Government and the Freedom fighters , but it wont be possible before the elections and the formation of the new government
 The role of European Union for the peace in Middle East
-from official point of view, the role of European Union is decisive in the peace efforts to stop the war in the Middle East.
-according to Brussels' official stance, the efforts of Schwarzenberg delegation or Sarkozy were equally helpful in this regard.
-European Union's spokesman Amadeu Altafaj has said that every such effort is adorable which is helpful in sending the European Union's message to the opponents of the war.
-it seems alright as far as the official statement is concerned.
-but in reality the European Union is portraying a very disappointing picture of the internal tensions.
-as the head of the Union, Czech republic's role is even weaker than before.
-an on top of that the internal issues have made is helpless.
-on the other hand the French president Sarkozy is behaving like if he is still the president of the European Union.
-Whereas France has completed its presidential tenure of six months.
-Sarkozy wants to play a leading role and he is capable of it but he does not have the permission to do it.
+Looking it from governments point of view, the efforts by European Union to stop the war in Middle East have been decisive.
+According to Brussels official position the Shoarzan Berg group or Sarkozy's efforts are symbolic to the seriousness of the matter.
+European Commission's Spokemen Amadeu Altafa said every effort is commendable that can help a unified message from the European Union to reach the warring sides.
+In light of the governments statement all seems to be fine.
+But in reality the European Union is presenting a view of conflict amongst each other on this idea which is very sad.
+European Union's President Check Repuplic's role is already weak.
+In addition to it the internal turmoil has nullified the effect.
+At the other side, the French President Sarkozy's role seems to indicate as if he is still working as the president of the European Union.
+Despite France has expired its 6 months Presidential term
+Sarkozy wants to play a leaders role and he can also do it but he lacks the authorization to do it.
 the most funny situation is faced by the French foreign minister Bernard Kouchner.
 he is part of a delegation which is headed by the foreign minister of Czech republic Schwarzenberg.
 the problem is that both foreign ministers are issuing contradictory statements over the Middle East war.
@@ -476,8 +476,8 @@ They are blaming Germany for keeping discriminatory policies not only in Afghani
 And because of this they are considering Germany their target evenmore.
 In the mean time, the German Government says that the German intelligence agencies already knew about this video before it came into the lime light.
 The German department for the elimination of crimes is busy in analyzing this video.
-Obama has taken the position of American presidency.
-In this setup, let alone the American public, the whole world has different hopes about Obama.
+Obama has taken charge of the American presidency.
+In this perspective, keeping the American people aside, all the world has developed various expectations for Obama.
 Now when Barack Obama is receiving greetings from all over the world on becoming the president of America, the expectations from him are also rising.
 in this reference, the German Chancellor Angela Merckle has expressed confidence in the American president.
 "I am sure that based on the friendship between Federal Republic of Germany and the United States of America, we can resolve all the issues faced.
@@ -488,7 +488,7 @@ Active in German city of Bochum, Chinese political expert Kusuay Wu says:
 "in this reference, I am sure that in coming weeks and months, Obama and his team of economists will put immense pressure on China to have a more flexible and competitive to market exchange rate for the Chinese currency.
 former American regime has also improved on relations with India.
 how far Obama can take these relations, Christopher Raj, Professor of American Studies in New Delhi says on this: "now we have come closer in strategic partnership, however, Obama can not bring an overnight change.
-In a message sent to Obama by Pope Benedict, he also stressed upon the need to create an environment of peace and mutual help in the world.
+pope Benedict also send a message to spared wind of thrive in World emphasize peace and Collaboration to Obama.
 Iraq provisional Elections.
 after 2005 this war effected country first important election.
 for provisional election 14,400 Representative come in ground for 440 seats.
@@ -508,16 +508,16 @@ If it were not for the deception of Egyptian president, Hasani (not) Mubarak, th
 Here, the Saudi Arabian and Jordanian governments are giving the Israeli government political and economic support, and are helping Israel by deceiving the helpless Muslims of Gaza.
 Barack Obama: America will use a new policy towards Iran.
 According to a report from Mehr news agency, the newly elected president of America, Barack Obama told ABC news channel, in an interview with them, that they would take a new approach towards the Iran dilemma.
-Barack Obama said "Iran will be a big challenge for American government"
-Barack Obama said that he is concerned about Iranian support of Palestinian organizations Hamas and Hiza Ullah and Iran's uranium enrichment program.
-But he will not continue existing policy of current American president Bush and he will adopt a different policy about relations with Iran.
-Barack Obama said that while achieving the real goal he will insist on mutual respect and dialogue.
-Barack has already said that to do dialogue with Iran there should be no conditions applied.
-During interview he hoped that his administration will quickly follow his new policy about Iran.
-Regarding crisis in middle east Obama said that he is making a new team.
-That will start working for peace in middle east from January 20th.
-Bush; the incompetent president of America, confessed his mistakes in last address to the press.
-Every news agency has cited Associated Press that in his last press conference American president George Bush has confessed many mistakes and crimes .
+Barack Obama said that Iran would be a very big challenge for the American government
+He said that they are in a dilemma with regards to Palestinian Islamic organizations Hamas and Hizbullah's support of Iran and Iran's nuclear enrichment program.
+But he will not retain the policy of present American president George Bush, with regards to Iran, but would adopt different policies for Iran.
+Barack Obama said that he would make his actual goal completely clear, while stressing on the hope for mutual respect and dialog.
+Barack Obama has mentioned in the past that no prerequisites will be set with regards to dialog with Iran.
+During the interview , he expressed the hope that his government would take quick policy decisions on Iran.
+Regarding the Middle East crisis, Obama said that he would form a special team
+which will start working on establishing peace in the Middle East from the 20th of January.
+President George Bush, unable and disliked president Bush accepted his mistakes and crimes in his last press statement.
+Mehr News Agency related from Associated Press that the American president George Bush, in the last press conference of his term, accepted numerous of his mistakes and crimes.
 Speaking during the press conference at the White House, President Bush said that though newly elected president Obama has the feelings of well wishing, still, the biggest challenge facing Obama would be to prevent possible attacks on America.
 He said that the completion of the Iraq mission and social security reforms were his mistakes.
 President Bush said that whatever he did, he did it for the sake of protecting America.
@@ -538,16 +538,16 @@ President Ahmede Nejad told the Palestinians that success will be at their feet 
 and Oppressed will win over the oppressors and thats Allah's promise.
 President George Bush; Terrorism is still a threat to USA.
 MEHER/MAHAR news agency has copied with reference from the German news agency that the US President while addressing his successor Barak Obama and the nation in his farewell speech, said that though the US is safer than it was seven years ago but the threat of terrorism still looms over USA.
-Bush said that the enemy terrorists are waiting patiently to attack America, and they have a strong determination to attack America so America should never be unaware about its security.
-The American President ignored the hurts and suffering of the hundreds of thousands of Palestinians in Gaza, and defended his policies saying that America is still the biggest supporter country of independence. However commentators do not accept the reality of the unpopular president's remarks, as America is neither a supporter of freedom, nor a supporter of human rights, but rather it is the most mischievous country in the world, which not only supports a blood thirsty country like Israel, but is also directly involved in its crimes.
-Israel, openly kills children, women and civilians and the American president is congratulating them. This is the American humanity and freedom which the world is seeing in Gaza and other places.
-Usama Hamdan: Presence of army in Palestine continues
-According to a report by Mehr News Agency, the Hamas leader in Lebanon, Usamah Hamdan told French News Agency, during an interview, that the one sided ceasefire from Israels side is against the comprehensive international efforts for a ceasefire. He said that as long as Israel is present in Gaza, a one sided ceasefire is meaningless.
-He said that the one sided ceasefire was an unsuccessful effort of Israel to escape defeat. Hamdan said that if Israel wants long term peace, it will have to accept Hamas's conditions as well as end this siege.
-The Hamas leader in Lebanon made it clear that if Israel tries a one sided ceasefire with its army remaining in the Gaza belt, there will be resistance against it.
-Addressing a one way conference from Beirut, the Usamah Hamdan called for the European countries to break ties with Israel.
-The Hamas leader said that the increasing numbers of the martyred and injured will only increase our determination.
-He told the Palestinian public to stay firmly rooted and resist the enemy like a boulder.
+Mr. Bush said the terrorist are prepared to attack America and are waiting for the right moment and they have strong determination to attack. So America should not show any negligence for its national security.
+The American President ignored the suffering of millions of Palestinian people and defended his aggressive and wrong policies. The American President said, America even today is the biggest country that supports freedom but experts don't buy this idea and are of the opinion that this claim is not realistic because not only America is not the flag bearer of freedom but also not a supporter of human rights. In fact America is the biggest terrorist country in the world that not only is supporting the barbaric Israeli Government but also directly involved with Israel in committing the crimes.
+Israel is committing massacre by slaughtering children, women and common people and America's President is praising him. This is the humanity and freedom the America that the world is witnessing in Gaza and other parts of the world.
+Asama Hamadan in Philistine the dialog will continue to go on
+According to news agency's report the spokesmen for Hamas in Labnon Asama Hamadan talking to French news agency said that Israel's one sided cease fire is against the United Nations initiative and until Israel is present in Gaza the cease fire is meaningless.
+He further said that one sided cease fire is a failed attempt by the Israel to avoid a defeat. If Israel wants sustainable peace then it would not only needs to end the siege of Gaza but also accept the terms proposed by Hamas.
+The representative of Hamas in Lebanon clarified further that if Israel proposed the one sided cease fire with the presence of Israeli troops in the belt of Gaza, Hamas will still continue to confront the Israel.
+In Beirut, attending a conference in solidarity with the Gaza people Asama Hamadan asked the European countries to discontinue diplomatic relations with Israel.
+The representative of Hamas said that with the increasing number of Martyrs and injured people in Gaza our resolve is getting even more stronger for our cause.
+He emphasized on the Palestine people that they should be as a solid rock against the enemy and continue to resist strongly.
 Taliban have killed six people in Pakistan's tribal area of north Wazirastan.
 meher reporting agency copied with reference to rueters that taliban have killed 2 Afghans and 4 Pakistanis over accusation of espionage in Pakistan's tribal area of north Wazirastan.
 according to reports, on Tuesday morning locals found four dead bodies from tehsil chowk in Tehsil Mir Ali, who were shot dead.
@@ -578,19 +578,19 @@ During the strike on behalf of the government security arrangements were made at
 In the Israel attack the senior commander of Hamas got killed.
 In the Israel air strike on of the senior commander of Hamas got killed.
 This was the second important personality of Hamas who got killed during the week long attacks of Israel on the lands of Ghaza.
-Officials of Hammas have said that Abu Zakaria Al Jamal was killed on Saturday in his palace located in North of Gaza city.
-Scholar Nazar Rayyan of Hammas was killed in another aerial attack by Israel on Thursday.
-Residing in Rome, Hammas's exiled leader Khalid Mashal has expressed taking revenge and threatened Israel with a ground attack.
-There are thousands of soldiers and tanks of Israel placed on the border of Gaza and they are waiting for fighting orders.
-America has appealed for a cease fire. But has said that decision of fighting on Gaza is based on Israel.
-American President George Bush, on his weekly radio speech, has accused Hammas of excitation to aggravate violence. And has adjudged their rocket attacks on Israel as terrorism.
-He has said that America is working on cease fire. But one-way agreement will not be accepted.
+The office bearer of Hamas has said that Abu Zakaria Al Jamal died on Saturday in the Al Shujahia street, located in the east of Gaza City.
+In another air attack on Thursday,the scholar of Hamas Alam Nazar Rehan was also killed.
+The Hamas expatriate leader living in Syria Khalid Mashal has shown his will to take revenge and warned Israel against ground attack.
+Thousands of Israeli soldiers and tanks are located at Gaza Border and they are waiting for the orders to attack.
+The Americans have appealed for the cease fire but they have said that the decision to attack Gaza or not will be taken by Israel.
+President George Bush in his weekly address on radio has accused Hamas of increasing atrocities in order to aggravate the situation and termed it's Rocket Attacks on Israel as terrorism.
+He has said that America is working for the cease fire but any one sided pact will not be acceptable.
 Three dead bodies found in the Northern Waziristan.
 Pakistani security officials have said that three dead bodies are found in the tribal areas of Northern Waziristan.
 There is doubt that Taliban have killed them by giving them death sentence.
-These bodies were found near the capital city of north Waziristan, Meeran Shah, and such papers were found on them on which accusations of their spying for America were written.
-Officials say that perhaps one of these bodies belonged to the local person who was kidnapped last week.
-They said that the two remaining bullet ridden bodies belonged to Afghani citizens.
+These dead bodies are found near the main city Meran Shah of northern Waziristan. And with them, such notes are found in which these men are blamed to be American spies.
+Officials said that probably one of the bodies is of the man who was kidnapped last week.
+He said that the other two bodies damaged with bullets are of Afghan inhabitants.
 Israeli attacks continue for a tenth day, in Gaza.
 Palestinian children injured in Israeli missile attacks. All along the Gaza belt, the Israeli army is fighting against Hamas soldiers, while the Israeli air force is attacking suspected residences of the militant groups, for the tenth continuous day, in the region.
 The Israeli defense minister Yahud Barak, said on Monday, that the attacks will continue as long as the people of south Israel are not safe from Hamas rocket firing.
@@ -608,10 +608,10 @@ American senator Lindsy Graham is also with Biden in this tour.
 Press officer of American embassy, Lu Finter has told Voice of America that the new elected president will talk about different regional issues with Pakistan government in his tour. Although he refrained from giving more details.
 According to the sources of foreign office, Joseph Biden will also meet Army chief General Ashfaq Parvez Kiyani besides other high government officials.
 It is expected that during these meetings, war against terrorism will also be discussed besides important bilateral and international issues.
-Joseph Biden was awarded Hilal-e-Pakistan.
-After arriving in Islamabad, Joseph Biden met with President Asif Ali Zardari.
-During the meeting the president presented him with Hilal-e-Pakistan on playing an important role in forming close relations between Pakistan and America.
-Please have it cleared that last year Joseph Biden, together with Senator Richard Lugar, introduced a Bill as a chairman of Foreign Affair committee, favoring the increase in America's foreign army provision to Pakistan in the coming 5 years by 3% to a total of 5.7 billion dollars.
+Joseph Biden was awarded with Hilal a Imtiaz..
+After reaching In Islamabad Joseph biden met with president Asif zardari
+In the meeting he was awarded with Hila a Imtiaz by president Zardari.. He played an important role to build up friendly relations between America and Pakistan .
+It should be known that Joe byden was the head of the foreign relation committee, in which he with the help of Senator Richard logar introduced a bill in which they have requested America that the defense aid of Pakistan should be increased to 5.7 billions in the next 5 years.
 Joe Biden played an important role in removing the previous president Parvez Musharaf, Prime Minister Gilani
 Yusuf Raza Gilani and Joe Biden ( File Photo)
 Prime Minister Yusuf Raza Gilani has stated that America's Vice President candidate Joe Biden has played an important role in making Parvez Musharaf leave as Army Chief of Staff. And Joe Biden has also helped a lot for democracy in Pakistan.
@@ -631,13 +631,13 @@ on an important highway of Quetta, Saryab road, firing by unknown people killed 
 On Monday morning, a jeep carrying two DSP's one Sub Inspector and two constables was traveling towards the police training center when two people sitting on a motorcycle near the degree college on Siryaab road started firing at them without any provocation, resulting in the death of Sub Inspector Mehdi, Constable Sibghatullah and Nasrullah died on the spot, while DSP Hasan Ali died upon reaching the hospital.
 Hospital sources say that the other injured DSP Ghulam Muhammad's situation is also critical, and he has been shot in the neck and the head.
 After the incident, the police have surrounded the area, but as of yet, no one has accepted responsibility for the incident.
-Death of another Indian soft wear engineer in America.
-In America another soft wear engineer got killed through gun shots by unknown Assailants. He belonged from Andhra pardash.
-26 years old Akshay wishal who belonged from sikandar abad got killed 2 days ago by the unknown assailants in the state of Arkansas .he died in hospital while getting the medical treatment.
-He was a worker in satyam computers and providing his services in falcon jet airways.
-During the last one year 7 students from Andhra pardash have been killed by the unsocial people.
-Too many deaths have created a big concern in the families for Thousand of those students,they are getting higher education or they are staying in America for the seek of a job.
-it should be known ,In Andhra pardash they prefer to go in America for higher education and for better future .
+The death of another Indian software engineer in America
+Another software engineer belonging to Andhra Pradesh has been shot and killed by unknown attackers.
+26 year old Akshay Vishal of Secunderanadwas shot two days ago by unidentified assailants in the state of Arkansas. Vishal died in the hospital while undergoing treatment two days later.
+He was an employee of Satyam Computers and was providing services for Falcon Jet Airways in America.
+In the last one year, seven students from Andhra Pradesh have been killed by American anti-social elements.
+The rise in the deaths of those going to America for higher studies and employment from the state has increased the worries of the thousands of families whose children are in America.
+It should be known that America is preferred in Andhra Pradesh for higher studies and brighter futures.
 According to the statistics of American consulate in Chennai, 100,000 American visa applications are received from India, from which the majority i.e. 40% is from Andra Pardes.
 During this time, the provincial government started trying to bring the dead body of the deceased to Hyderabad.
 America should stay alert for Enemy's attack: Bush.
@@ -678,9 +678,9 @@ Voter registration for upcoming Presidential Election in Southern Afghanistan st
 But commission has said that until the betterment of the situation of security, voters from a few areas of the state Helmand will not be able to get registered.
 The rate of violence has been increased since last year in those southern areas where Taliban Rebellions have increased their attacks on Afghan Forces and International Forces.
 In the meanwhile, Afghan Forces and International Forces have said that in the middle night of Wednesday and Thursday, during the fire exchange held in whole Afghanistan, they have killed at least 28 militants.
-NATO has said that, their militaries has destroyed the militaries and weapon near the east border of Pakistan with the help of Airforce and Ground Militaries
-before this the external affair minister said that, in this district the afghan militaries has destroyed the 8 enemies and 2 got injuried
-this has explained briefly that the positionable in afghan give a hint about this situation.
+NATO has said that their army has destroyed 22 fighters during air and land attacks on Eastern province Khost near the border of Pakistan.
+Before that, Afghan Ministry of Defense stated that in the same province, Afghan army killed 8 rebels and injured two.
+It is not clear whether Afghan officials have mentioned the same incident.
 Blast in Wazeeristhan with 2 missle, approximately 18 got died.
 Pakitani Intelligence Claims that the twin missle in the north wazeeristan has killed nearly about 18 people.
 Based on the report, the airfoce of America has deployed three missle in a home near the village meerali in North Wazeerisathan, where 10 people got killed
@@ -762,20 +762,20 @@ Commonly there are many structures of riots and protests on the land of Pakistan
 He has also reported that there are about 700-800 army men on the land of Kashmir out of which about 50% of the army men are non-country men.
 General Deepak Kapoor has reported that there is some improvement in the K.I.K atmosphere. he has also said that he has increased that Pakistan has increased the efforts of battle on the Pakistan Dependent Kashmir. therefore we have increased the Army camps at the Indian borders.
 He has also reported that he has increased the number of army in the India Dependent Kashmir. He has clearly mentioned from the symptoms that there cannot be any compromise with regard to the protection of the country.
-May God bring people's dialogue pleasantness and bring Barack as blessing to world
-Well there is no hope but see what Pakistan-America relationship brings to us in the result of this change
-Thats the Wish of martin the king human right activist, who wnated to make the world a peaceful place
+May God answer the world's prayers and may Barrack Obama be beneficial for the world.
+Though there is not much hope, but we shall see how the relationship between America and Pakistan , effected by this change, are in our favor.
+That what will Mr. Barrack Obama give to the world in the name of Martin Luther King's dreams.
 Obama whose part of the name is also Hussein is going to take the oath as an American Leader.He is going to be a protector of the country and the History. This is an exam for the American history.
 Not only for the sake of their community but also for all those who have supported him with their heart and soul.
 This test will happen on the extreme white paper.it is not easy for him to write on the blue paper whole-heartedly that he would rule the country with justice.
-Here in South Asia, specially the Muslims which have some expectations from Obama, should remember that Obama has been elected the president of America. Obama also should remember that practically America is the president of whole world.
+Those here in South Asia, especially the Muslims, who have hopes about him, should remember that he was elected the president of America, and Obama should remember that the president of America is actually the president of the world.
 After a moment, a man whose brothers and sisters from his generation were brought to America from their countries as slaves and whose sweat and blood have strengthened the roots of the most powerful country of the new era, today a representative of this racially discrete nation will be called the 40th President of this very America.
 Many people have expectations from this one man.
 People who love him, have to have unreal expectations from him.
 If Obama succeeds to an extent in reducing the hatred among races and religion in the world, so this will be a win for people who love him.
 What will be its effect on South Asia and can a meaningful change be expected in the American policy regarding this matter?
 How will this change effect the relationship between America and Pakistan.
-image not available
+n/a
 Dear, whether it is Obama or some one else, the decision of the policy of the entire world is done by Jews lobby of billionaires, influencing, powerful and effective people.
 And as far as Pakistan is concerned, after the series of recent Bombay blasts,the offensive reaction of India, America and Israel is in front of everyone.
 After the creation of Pakistan, the administration of Swat remained with the Ruler of Swat, who had a regular Army and Law.
@@ -788,15 +788,15 @@ In the Frontier Province, there is a continuous targeting of educational institu
 The maximum number of schools have been destroyed in district Swat in which majority are the girls schools.
 It is not just this, the Taliban has imposed a ban on girl education.
 Thousands of male and female students have been deprived from getting education.
-What do you think Talibans wants to achieve by stopping women education.
-Why the government has failed to stop these illegal actions?
-In your opinion what government should do.
-Question must be this that what ISI and Pakistani Agencies will get.
-Because Swat people has understand the game that army is there to serve Taliban not to kill them otherwise how five schools can be destroyed in a single night during curfew, how people can be butchered and hanged in the square.
-When government writ is unable to implement in Swat in these circumstances how the government will succeed in eliminating these illegal activities.
-Now the question is when government has every thing like armed force, latest weapons, latest technology and spy system then why these Taliban can;t be controlled?
-The only answer is that they are supported by some unseen power that neither their weapons finish nor they get caught.
-The essence is that these Taliban are paving the path for 'International Imperialism' by their bad deeds.
+What do you think the Taliban have to gain by eradicating female education?
+Why has the government been unsuccessful in stopping these illegal steps?
+What do you think the government should do?
+The question should be, what does the ISI and Pakistani agencies get?
+Because the public of Swat have realized this was a game, and that the army was there to serve the Taliban and not to kill them. Otherwise, how could five schools be blown up in a single curfew night? How could people be slaughtered during curfew and hung in the main circle of the town?
+When the government is not being allowed to have any say in Swat, how can the government be successful in stopping these illegal steps?
+Now, the question arises, as to when the government has an armed military, new and dangerous weapons, new technology and spy system etc., then why are these four Taliban not being controlled?
+The answer to this is that they have the hand of a hidden guide on their heads, because of which neither do their weapons get exhausted, nor do they get captured.
+The conclusion is that the Taliban, through there dark activities is making the work of the global leadership easier.
 15 years ago, the war was on in Afghanistan.
 ISI used to control the Taliban when there was the opposition from the Northern Alliance, which was supported by Russia, India and Iran.
 Then, suddenly the situation changed and Taliban's works came to light.
@@ -851,13 +851,13 @@ The difference between you and Jews is that they call themselves Jews and Martyr
 For a while, BBC forums have been making a certain point, sometimes while discussing suicide attacks and other times, terrorism in India.
 The most used word in these anti-Islamic comments is extremism.
 But, who is extremist, that you can easily figure out from the above comment.
-When will our muslims understand that Anti Christ can not be fought with swords.
-Looking at unarmed people in the bombing of Israel, what shall one do other than crying?
-But the basic fault is of this turmoil and massacre which by naming Jihad, we try to blacken the beautiful face of Islam.
-When majority of Palestinians accepted the existence of Israel then why did Hammas need to fire those rockets on Israel and made suicide attacks?
-Attitude of the both the sides is against humanity.
-The role of UN and the USA was again seen as favoring towards the injustice of Israel.
-May Allah give muslim nation the understanding of becoming united. Ameen!
+When will our Muslims understand that Dajjal can not be fought with the sword?
+Looking at the helpless people facing the Israel bombings, if the heart does not cry tears of blood what coes it do?
+But the most basic mistake behind this destruction and killing is that we try to use the name of Jihad to disfigure the beautiful face of Islam.
+When majority of the Palestinians have accepted the existece of Israel, then what need does Hamas have to send rockets into Israel or conduct suicide attacks.
+The conduct of both sides is misanthropist.
+The action of the United Nations and the United States seem to be supporting the Israeli wrongdoings.
+May Allah allow the Muslim nation to unite. Amen.
 And we should think about giving the real terrorists an anti-terrorism Nobel prize for their painstaking efforts against terrorism, as after all, they are doing the real work.
 Otherwise, would it be possible for terrorism to take place at such a large scale without the support of some big leader? And everyone knows who is controlling the strings.
 In easy words, such gangsters are told to do whatever they want.
@@ -991,23 +991,23 @@ Should the army not be accountable for what they have done over the past one yea
 How many Taliban are killed by the thousands of shells fired by mortars and cannons everyday?
 I appeal to the I.S.I that for God's sake, stop monitoring the Taliban and let us live in peace in our heavenly hometown Sawat.
 And stop this phony operation.
-That day is not far when a resolution about Pakistan's military intervention will be passed by United Nations just like the bill which was passed against Jamat-ud-Dawah.
-Riaz Ahmad Farooqi
-The extremists of our country and their supporters themselves are constantly providing all evidences and justifications required for instigation of action against them, and God forbid, the day when such a resolution is passed, in all likelihood not a single voice would be raised in United Nations, in our favour.
-And supposing there is a delay in the enactment of this resolution, then considering the example of America, a superpower will come forward to take over on its own resources.
+The day is not far, when a resolution will be passed in the United Nations, against army intervention in Pakistan, in the same way as it was passed against Jama'athud-Da'wah.
+Riyaz Ahmad Farooqi
+First of all, our radicalism and our protecting them, is alone, sufficient to provide complete proof and permissibility for action against us. And the very day such a resolution is passed, there is all probability that no voice will be raised in our support, in the United Nations.
+And supposing the passing of such a resolution is delayed,some other strength will definitely leave our aid to ourself,, keeping the example of America in front of them.
 We are not aware and familiar with the character and achievements of Pir Sami-ullah and what his activities were.
 Maybe he was not a revolutionist.
 Like the deadbodies of Comrade Che Guevara, Nawab Akbar Khan Bugti, Doctor Najeebullah and thousands of other revolutionists have been subjected to dishonour at the hands of the enemy.
-They command even after they die.
-But there is an international game being played over here. Here, they are ruling by scaring the public about beastliness and terror.
-So that it would be permissible for them, saying that if we are not there, beasts and wild people will come and capture the government.
+They are deathless even after being dead.
+But here an international game is being played. Here ferrocity and animosity is created to do the ruling.
+So there can be reason created that if we are not here then these vandals and animals can come take over the government.
 Such actions of the so called Islam lovers, in the name of religion is extremely disagreeable.
 The supporters of these fundamentalists can see the oppression of America, but instead of being sorry about such beastly actions, give it the name of tribal traditions, and clearly avoid it.
 Any person with a heart can never accept these beastly actions, which are done sometimes in the name of tribal traditions and sometimes in the name of Islam.
-I think the people of our army have joint these people.
-This is because, when these people move around, at least some time will be taken. To catch them will only take so much time. But, forget about getting to that spot, even if they were there, they escape from there.
-Are these people so brave that they take 50 or 70 people hostage and our army watches like an audience, with hand on hand.
-They are also servants of Allah and so is the army.
+In my opinion, people of our army are with these people.
+That is because when they change destination, it takes time. But to catch them, forget about getting there on time, even if they are on the spot, they leave from there.
+Are they so brave that they keep 50-70 people hostage and our army just watches it as spectators?
+They are also men of God and so is our army.
 It is very clear that there is fishy.
 instead of promoting God's blessing and merciful nature, discussing various disastrous and lesson gaining occurrences to create an air of fear and terror in the name of religion was being seen. And besides the event of hanging the dead body, their literature and books like "what will happen after death" also create fear and terror.
 And these people are using this fear and terror as a shield for the purpose of world power.
@@ -1048,10 +1048,10 @@ there is no reason for this in any religion or in any families
 BBC along with other media's has gathered information about Taliban
 but, the reality is not even known to any one, that what is the real situation, we only know because we are tribals
 BAsically it is a game in which CIA, RAW, MOSAD, and our ISI,are involved, there is no one in from taliban or from tribal, the was created by terror from above agencies, who are insulting Taliban, Islam, Madarsa's, Pestos, and Tribals
-This move has ashamed all the Muslims.
-I salute MQM's Altaf Hussain and the leadership of ANP and PPP who speak against this cancer that is Taliban.
-This cancer is a product of Zia-ul-Haq who died but also destroyed Pakistan.
-But I am hopeful that current leadership will end this cancer.
+The heads of Muslims have hung from shame over this action.
+I salute the leader of MQM, Althaf Husain, and the leaderships of ANP and PPP, as they have spoken against this cancer, i.e. the Taliban.
+This cancer was given birth to by Zia-ul-Haqq. He has gone, but he has destroyed Pakistan as he went.
+But I have hope that the present government will eradicate this cancer.
 After Mumbai attacks India said that some extremists are behind the attacks.
 Pakistan rejecting the accusations said that it will help India in investigation in every possible way.
 India said that it has given a list to Pakistan that has 20 suspected extremists required by India.
@@ -1108,15 +1108,15 @@ Pak relationships turned sour, because of which the proximity between the two co
 India has always claimed that militant and non-militant groups which are active in Pakistan were responsible.
 For the relationships to return to normal, taking action against these countries is being made a prerequisite,
 Whereas Indian security agencies have accused Lashkar-e-Taiba of being directly responsible for the Mumbai attacks.
-In this case, name of Jamat-ud-Dawa has come in the front many times.
-This is the first time that relation between both the countries have worsen due to a terrorist activity in India
-In December 2001, after the attacks on Indian Parliament, these two neighbors were on the brink of war.
-After that, in 2002 Lashker-e-Tayyaba was banned and included in the list of terrorists.
-Now Jamat-ud-Dawa, about which Security analysts say that it is in reality a new face of Lashker-e-Tayyaba. Restrictions on the party are being requested.
+The name of Jama'athud Da'wah also comes up many times in this regards.
+This is not the first time that relationships between the two countries have become serious due to some terrorist activity that took place in India.
+In December 2001, after the attack on the parliament, the two neighbors were prepared to go to war.
+After that, Lashkar-e-Taiba was banned and it was included in the list of terrorist groups.
+Now, it is being demanded that Jama'athud Da'wah, which according to security reports is just a new form of Lashkar-e-Taiba, also be banned.
 In your opinion, should this group be banned or not?
-Should Pakistan do decisive operations against extreme activists on its land?
-By banning Jamat-ud-Dawa, can current Pak-India crisis be over?
-crisis be over? and how important is it to close down the armed groups to keep constant peace between both countries?
+Should Pakistan take decisive action against the active fundamentalist groups within its boundaries or not?
+Can putting a ban on Jama'athud Da'wah help the present Indo-
+Pak crisis to subside, and how important is it for permanent peace between the two countries that armed groups be dismantled?
 Security Council of the United Nations has banned Jamat-ud-Dawa. After all what proof does the security council have to decide this so quickly?
 Does the Security Council always show this type of urgency against the Muslims?
 This is what they call a slow complainant and a fast witness.
@@ -1168,16 +1168,16 @@ In Pakistan Occupied Kashmir, security forces captured a proved camp of practica
 Since the Mumbai attacks, pressure is increasing on Pakistan to act against the extremist organizations.
 India's accusation is that Lashkar-e-Taiba is involved in the Mumbai attacks.
 American Foreign Minister, Condoleeza Rice told the Pakistani leadership that there should be immediate action taken against the perpetrators of the Mumbai attack.
-he believed the terrorists involved in Mumbai Attacks used the Pakistani soil.
-Meanwhile, the officials in Peshawar has told that more than 50 trucks have been burnt by some unknown armed persons. These trucks were going to Afghanistan with goods for NATO forces.
-These was the second attack on American supply during the last 48 hours.
-Meanwhile Pakistani police cracked down a camp of Lashkar i Taiba, a banned outfit. Already many efforts have been made to disarmed the extremists, even money and indemnity was offered.
-It is clear from the circumstances that efforts remain unsuccessful to dislodge the armed groups funded by Americans and Saudis during afghan war. It means efforts to restore Pre-80's Pakistan are fruitless.
-Question arises, whether Pakistan wants to do so?
-If Pakistan has an ability to do this?
-What is your opinion?
-For details please click here
-Note: due to higher numbers, only comments typed in Urdu will be published
+He said that the extremists whom attacked Mambae used Pakistani earth.
+Meanwhile, the saying of Pashawar commanders is that unknown miltary persons fired the another point of United miltary truks and in result 50 miltary truks destroyed.
+It is the second attack on NETO and America.
+Meanwhile, Pakistan made the show of disactive party Lashkar-e-Taiba and before this was tried to make miltary persons unmiltary and miltary wepons were changed with money and cartainly no any action without it.
+The situations told that in the past period of President ZiaulHaq the efforts of Pakistan to end of miltary parties in the result of enterance of Soviat Union in Afghanistan and the resistance by America funding did not succeed.
+The question is this is Pakistan wants to do it?
+Is Pakistan capable for this?
+What do you say?
+Click here fo details.
+Please note it that only urgues typed in urdu are published due to large number of urgues.
 For this, click Alt+Shift on the on-screen keyboard and select Urdu)
 I have only one question for the standard bearers of the world.
 If you kill their children, will they come to garland you? It is impossible.
@@ -1218,16 +1218,16 @@ its hard to understand that what is happening and why?
 are these the signs of the judgement day?
 what are these innocent and innoxious people being killed for?
 the reason is in front of everyone, ones who want to break Pakistan into pieces are active and those who do all this neither belong to any religion nor a country.
-Whether it be Karachi or Mumbai, the house was burnt by the houses own lanterns
-Whichever government comes, it only changes the names of the places and starts working for fame, just like how nowadays, the airports, roads and buildings are all Benazir.
-Does Benazir mean that which is happening to the public of Karachi and Pakistan?
+Whether it is Karachi or Bombay, our homes are burnt with their own lamps( we have destroyed our homes ourselves)
+When the government comes, they just change names of the places to build a name for themselves. Just like these days airports, roads, buildings are all named Benazir.
+What has happened in Karachi, is this what Benazir means?
 When Bombay attacks were at their peak, the failure of efforts of RA to initiate turmoil in Karachi proves this that in the past political elements working on the payroll of RA have now resigned from their posts.
 unjustified killing of Pashto speaking hard workers and Indian threats have awaken sleeping Pakistanis from Karachi to Khyber.
 Where reaction full of patriotism of all political, religious, lingual and national parties have taught diplomatic manners to India, at the same time they have also given American planners one more chance to think.
-The responsible parties for the worsening situation in Karachi are the United and the ANP, and the government is taking sides.
-The government can control the situation in one hour, but it is purposely allowing it to grow.
-The police and rangers are avoiding action because of the pressure on them by the political parties.
-The talk of uniting is only restricted to speeches. The political parties should leave their interests and work for the interest of the common man.
+MQM and ANP are responsible for the turmoil in Karachi and management is showing self interest.
+Management can control the situation in 1 hour but it is being given wind on purpose.
+Pressure of political parties on police and rangers keeps them from doing the operation.
+Talks of getting united are only limited to statements, political parties should let go of their self interests and work for the interest of a common man.
 until there is pressure on the administration, these kind of incidents will keep taking place.
 I think these people are the biggest terrorists.
 and foreign powers are definitely involved in this but no one knows who they are?
@@ -1278,7 +1278,7 @@ If 17th amendment ought to be removed then Zardari wont become president.
 Now he is more powerful then President Pervez as along with the President he is the Chairman of Peoples Party.
 Till he is president 17th amendment is there.
 For removing 17th amendment political parties has to depart President Zardari from President house first.
-Neither MQM wants it nor the other parties.
+Neither MQM nor other parties want this.
 In our family, most of the people are of the laborer type.
 And in our childhood, when we used to see our uncles toil, we used to wish in our hearts that Allah save us from labor that is hard on the body.
 To save ourselves from this, we wrote a letter to the editor of the Amroz daily, asking him what we can do after metric to save ourselves from having to toil.
@@ -1304,10 +1304,10 @@ In the time of Baenazir her brother got murdered, and his murderers are still at
 Besides being a woman Baebnazir did not fight for the rights of women.
 The way in which Baenazir did politics on her fathers dead body, in the same way her followers are doing politics on the dead bodies of her family.
 Baenazir got to be a leader twice and in that time punishing her fathers murders at one side she didn't even file charges against them.
-It is 37 years since East Pakistan was separated from us, and look at the height of insensitivity on the part of the public and the rulers, that no one ever mourned or expressed sorrow over their mistakes.
-We should have been observing 16th December as a day of reflection, and made plans to prevent the re occurrence of such incidents.
-We should have been sending greetings to the people of Bangladesh on this day and been trying to bring them closer to ourselves.
-The ruler should have opened the Jamudur Rahman commission file and pondered over the causes of separation of West Pakistan, mentioned therein.
+It has been 37 years since the separation of eastern Pakistan, and sadly no leader condemns this day nor do they call it a black day.
+It should have been so that we would celebrate this 16th September as a black day, and take steps so such a sad incident never takes place again.
+On this day we should have send the Bangali's letters of consolation and tried to bring them closer to ourselves.
+Now we look at the reasons why eastern Pakistan was separated.
 He would plan on bringing back the people of Bihar who were stuck in Bangladesh and he would send them gifts to keep their spirits up.
 We have become so insensitive that if someone dies in our neighborhood, we are not even aware of it.
 We do not care for our brothers and sisters because we have become selfish.
@@ -1348,16 +1348,16 @@ And whatever steps were expected were no more.
 Just as Bush's rule began to close, he started to worry about the end of his own rule, and he struck a deal with thieves in the dark.
 Even then, General Musharraf could have commanded the army, but the present government does not even know what is happening.
 Whether in Bajod or Swat, the army cannot control terror, and instead they bomb the 'enemy', i.e. the public. Apart from loss of life and money, if they are making the 'enemy' psychologically ill, then we are the enemies, aren't we?
-In Swat, the strongly affected part of Sarhad state, despite the continuity of military action for over one year, the situation is still going from bad to worse.
-On one side, the government is only reiterating the passing of a reproachful resolution in the national assembly. On the other side, the Taliban's illegal radio FM channel is having much more influence in the region.
-On the third side, the common man considers it safest to listen to the one who actually has control over the region.
-During the action of the security forces, there were claims of destroying the fundamentalists by the bombing of gun ship helicopters and cannon houses, but despite these destructions, the Taliban only became more powerful, and according to an estimation, their control over Swat increased that much percent more.
-As a result, on the one hand the government is not ready to accept defeat, and on the other hand the Taliban is stronger.
-Who is stuck in between? The poor civilians.
-It is said in Swat, that someone asked what kind of people are the Taliban were, so he got the answer, 'They are very good, as they are protectors of the religion and they fight against the enemies of Allah and the religion'.
-Then he asked how the army was, so he got the answer, 'They are very good, as they are the protectors of the country and they fight against the enemies of the country'.
-He then asked who the enemies of the religion and the country were, so he got the answer, 'We civilians'.
-I am wondering how the Pakistani Army will fight the Indian Army, when they couldn't control a small faction of the Taliban.
+The conditions in the terrorism struck area Swat in the Frontier Province are continuously deteriorating in spite of continuous Army action in the area
+On the one side the governments writ in the area is restricted to the extent of just getting the condemnation resolution passed from the National Assembly and on the other side the effect of Taliban's unlawful radio is increasing everday in Swat.
+On the third side the common folk consider it safe to listen to those who are in control of the area.
+The security forces claim killing many extremists during Gunship Helicopter attacks and Artillery Bombardment but in spite of these killings the Taliban's has not only gained strength but according to estimate they have established their control over eighty percent of Swat.
+The result is that on the one side the government is not ready to accept its defeat and on the other hand the Taliban has established their hold.
+In between who got grinded, the poor citizens.
+It is said that in Swat somebody asked, which type of people are the Taliban's are? The answer was "very good people because they are the custodians of the religion and they are fighting a war against the enemies of the country".
+Then asked how is Army, the answer was that the Army is very good since they protect the country and they fight with the enemies of the country.
+Then it was asked, who are the enemies of religion and country, the answer was "the citizens"
+I am astonished, how the Pakistan Army will fight with the Indian Army, while it is unable to control a small group of Taliban's.
 They could not track the illegally set up FM channel of the Taliban, which I believe was very easy.
 But still, the FM channel is spreading poison with all vigor.
 After the girls schools, now boys schools are being destroyed.
@@ -1388,14 +1388,14 @@ What should happen is that both the nations should live together happily and wit
 But even Iran wants to fight its proxy war here now.
 Even if operations in Israel are stopped for the time being, they will start again after some other incident.
 BBC's own country has its interests related to America and Israel and this is why while taking cover of enlightened moderation, it has started a series of blogs or Jewism and doing a biased propaganda.
-BBC is just doing formality and to gain sympathy is their only purpose and wish!
-mr moderator is requested that he may publish the commentry by this humble soul so that one can guess BBC still has some integrity left.
-Thankyou.
+What BBC doing is just a formality. Primary objective is to earn sympathies.
+I request the moderator that the commentary of applicant should be published to show that BBC still have some respect for facts.
+Thanks
 I don't know how this story was imitated but one is sure that dracolla of every age is thirsty of human blood.
 There were wars and bloodshed in every era of history.
 It is strange that man of 21st century, which claim more civilized, does not show any concern over open bloodshed.
 How does he not feel that what is happening around is a distorted/worst face of humanity.
-The most disturbing and sad part, is what kind of picture will this dark side of cultured man present to another man coming in the next century.
+n/a
 well wisher, Sajjad ul Hasan, Hayderabad dakan.
 At the moment in Dera Ghazi khan and in other parts of the country, it is raining.
 Presented is a poem according to the season. Enjoy the rain along with this poem.
@@ -1418,16 +1418,16 @@ For one, our media is also corrupted, like our leaders.
 It's goal is only to extract money from the government, and nothing else.
 As for the public, they are ignorant. To speak about them is the biggest ignorance.
 Yesterday afternoon something surprising happened.
-All together police running here and there but not ask on illegal parking
-and moreover that NYPD traffic was also not in a mood to look at illegal parked cars.
-it happened like this that a plane of US Air really became a plane and landed in Hudson river.
-Till now it is just known this that "Terrorists" relation was with birds race Goose.
-Yesterday was maybe New York's historic cold
-Temperature do not drop to this degree
-Me my own jaw is beginning to hurt after half hour of stroll outside.
-Imagine that what would have happened to those people who jumped from plane in the river.
-Happy news is that people all together stayed safe
-and sad news is that ship of company sank in this financial crisis.
+All police are running here and there, but don't ask about illegal parking.
+What's more, NYPD traffic was not in the state where it could look at illegally parked vehicles.
+Something like this happened, that a plane of the US Air really became a ship and landed in the Hudson river.
+Until now, we only now that terrorists are of the descendants of geese.
+Yesterday was perhaps historic cold, in New York.
+The temperature does not fall this much.
+Even my jaws started hurting from my half an hour walk outside.
+Imagine, how the people who jumped from the plane into the river would have felt.
+It is a matter of happiness that all people were safe.
+And it was sad that the companies plane drowned during this financial crisis.
 Seeing all those sites, I reached New Jersey Side from West Side Highway. There I found South Bond closed. What should I do?
 Coming back I go wedged in the busy street.
 Thank Lord! After an hour of hurry, a way was opened to me. I found myself at the exit of street 56.
@@ -1458,9 +1458,9 @@ Amen, then Amen.
 Masha Allah, up till now, 182 schools have been destroyed.
 The custom of fixing marriages before birth among Muslims, marrying with the Qur'an to collect property, and the statement by many Muftis that the girl becomes intelligent and reaches puberty at the age of eight was not little, that there was the news from India, that a girl was married with a frog.
 See a picture of the bride, taken at the marriage.
-Sometime before this a girl was married to a dog.
-Lets see that groom.
-Humanity has ceased to exist in the twenty first century.
+just a while before this, the wedding of a dog with a girl took place.
+look at that groom.
+humanity is still a rarity in the twenty first century.
 This is the time of the computers and their role in our lives is ever increasing.
 A lot of people have reservations on so much dependence on computers in our lives, specially in case of financial or monetary matters.
 Where there are certain comforts by the use of credit cards on the other hand law enforcement agencies are also getting to know more about you.
@@ -1468,16 +1468,16 @@ That now with just looking at the credit card transactions record your whereabou
 and when in the future the use of real paper money will get limited the benefits of plastic cards will increase more compared to today.
 That is why now in crime it is preferred to steal credit card information rather than looting a bank.
 Similarly computer has provided means for friendship or networking.
-Social networking sites, like Orkut, Facebook and Myspace are at first level of acceptance.
-But do you not think that the more we are following these social networking sites, the further we are getting from people in real life?
-Similar are the match making websites, where your desires are matched with others desires and you are shown a list of the people who match with you.
-But can you lead a life with a person who is just like you?
-I can not, and that is why the spouse is called the better half,
-because he/she will get rid of the faults within me.
-Perhaps I have got a small share of sense.
-I used to believe everything someone elder says.
-In the same way, I thought that my father knew the answer to every question on earth.
-I used to get laughed at a lot for this.
+Social Networking sites like Orkut, Facebook and my space comes in first tear when compared according to popularity.
+But don't u feel Psychologically that the more we are accustoming ourselves to social networks we are physically getting away from people.
+Like Match making websites which match your choices to other peoples choices to find similarities and you get a list of such matches.
+Now can you spend your life with a person exactly like you ?
+I can't, that's why we can compromise of a life partner who is half or partly similar to you.
+So the lacking of mine can be compensated by the partner.
+I guess i got a lesser part of intelligence
+Since childhood when ever an elder said anything to me that was the truth for me.
+This is how I got to believe that dad has the answer to every question in the world.
+People used to make a lot of jokes about me on this.
 But only that seems true which can be possible.
 It is very troubling, that what is the need to tell lies.
 Even at this age, he was harmed by this.
@@ -1518,16 +1518,16 @@ In the Indian subcontinent, we accepted Islam centuries ago but we could not let
 Considering man's 2nd marriage as ridiculous, divorce as denigration, divorced as untouchable, love marriage as dishonor and considering a man marrying an older women is dissimulation of the women is only the result of this way of thinking.
 And over all, by copying the western world, we are declaring the religious and veil as old fashioned.
 Accepting Islam was easy, getting rid of this way of thinking is very hard.
-Allah grant us all spirit and courage for this.
-Amen
-Writing Urdu was never so difficult.
-Century passed writing such little writing
-Know that little is much.
-Allah Hafiz
-Ameer Taimoor in his book "I am Taimoor" writes that i found this secret in my life that if leader of any Army is in front line then that Army will never lose.
-But here situation is else.
-To say that Common people are there to die for us if we die then martyr
-if someone from common people dies then murder
+Allah bless us with the ability and courage to do this task.
+Ameen.
+It was never that difficult to write Urdu.
+It took century's to write this little.
+Think of this less as a lot.
+Good Bye.
+Amir Taimoor Write on his book "i am Tamioor" thati have discovered secret in my life that if any force commander in chief on the first raw so that force never loss.
+but that circumstances different there.
+it was said lay folk die for our self we die so martyr.
+if some one die form Lay folk so killed.
 May Allah bless and have mercy on you.
 When I was coming back to the shop after Isha prayer tonight, one man who was sitting in car, raised his hand and asked me to come.
 I thought may be this man has forgotten his way or may be he wants to ask something. I stopped so his whole family was in his car.
@@ -1539,15 +1539,15 @@ Although there is an evident saying of the Prophet (P.B.U.H) that the hand above
 Allah have mercy on us and make us true Muslims ( Amen)
 Wassalam
 Javed Iqbal
-Wife of famous singer Adnan Sami, reached a police station in Bombay accusing him of torturing her.
-The police station suggester her to contact Court.
-Adnan Sami's wife Saba Guladari submitted a plea against her husband that Adnan Sami tortures her continuously.
-and treats her inhumanely.
-Now this has exceeded her tolerance limit therefore a case should be recorded against Adnan Sami.
-Police instead of recording a report suggested that she should contact the court by saying that this matter is not what comes under police control.
-In your opinion, is the accusation of Adnan Sami's wife on him is correct?
-What if this accusation is an attempt of tarnishing the name of Adnan Sami?
-Let us know of your comments regarding this matter.
+The wife of famous singer Adnan Sami approached a Police Station in Mumbai, accusing him of torture.
+The Police Station advised her to approach the court.
+Saba Galadari the wife of Adnan Sami gave an application against her husband that Adnan Sami continuously tortures her
+and he is also administering in human behavior against her.
+Now this thing has gone out of her tolerance, therefore, a case may be registered against Adnan Sami.
+Police station has advised her to approach the court instead of registering the case, on the plea that the case is not within the valid jurisdiction of police station
+Do you think that the accusation on Adnan Sami by his wife is correct?
+Can this accusation is an attempt of India to defame Adnan Sami?
+Inform us about your opinion on the Subject.
 Adam Saanghar, stamp.
 as far as blames concern so any man can do on other.
 nothing more important than respect.
@@ -1591,7 +1591,7 @@ who will be dominate the series between Pakistan and Srilanka?
 who will win series?
 who will be main of the series?
 let us know your recommendation.
-Gulfam, wants his favorable speech and you are also consider that it is our wish that you should write some truth do not made interpretation as like Mukhurjee because it is order that said right in front of brutal rural and this equal to Jihad what Mukhurjee said tires to get inside in news by changing speech.
+Gulpham, London, publishes his own views and you also prefer these views. I wish you would also write some truth, and not change your words like Mukherjee, because the order is to speak the truth in front of a tyrant king, and this is equivalent to Jihad. What should be said of Mukherjee, he tries to change his statements and stay in the news.
 Malik Yusuf, Dubai.
 How is all this is double for these people, when the Kashmiri people have been fighting for independence for the last 60 years?
 No, no one asked, and they are now stuck in their war of extremism and terrorism, so they start talking about making up.
@@ -1628,8 +1628,8 @@ All decisions will be made in the parliament.
 The Prime Minister said that Qadeer's door was closed.
 In your opinion, do the public protests against Mina Marriot not mean anything?
 Has the lawyers movement not played any role?
-What are your views about this statement of the Prime Minister
-Do enlighten us with your views
+What do you have to say about this statement of the Prime Minister?
+Make us aware about your opinion.
 American President, George W. Bush, in his outgoing press conference advised newly elected President Barack Obama saying that he had made many mistakes in his presidency, and that Barack Obama should do whatever he feels is appropriate.
 'I did, as a president, whatever I felt was appropriate, according to the situation, and the American law and constitution, giving preference to American interest over my own acceptance'.
 He said that the enemies of America are still planning to attack America, and that the biggest challenge for Barack Obama would be to stop those attacks.
@@ -1648,9 +1648,9 @@ After the completion of Qaide Aazam Trophy match between PIA and Habeeb bank the
 When Shahid Affridi came out of the drawing room after playing the match on the UBL ground then a big number of fans gathered him.
 On one situation a fan held the hand and asked to take a photo with him on which Shahid Affridi removing his hand said that he can take the photo tomorrow but on fan's insistence Affridi became angry and slapped him, before they start a quarrel the gathering people just dismissed the matter there itself.
 After that Shahid Affridi said that without any reason he was made an issue therefore at that time he was in a hurry to attend the Prayer.
-Any way, I beg pardon for this drama.
-What do you say about Shahid Afridi's actions?
-Let us know about your opinion.
+nevertheless I shall apologize to that spectator.
+what would you say on this behavior of Shahid Afridi.
+Let us know of your opinion.
 The Indian prime minister Manmohan Singh has once again accused Pakistan of provoking for a war.
 And Pakistan is using terrorism as a state policy.
 while addressing a Chief Ministers conference in new Delhi, Manmohan Singh said that the terrorist elements are backed by neighboring countries specially Pakistan.
@@ -1661,9 +1661,9 @@ how do you see this allegation from the Indian prime minister?
 Do the internally opposed and separatist movements of India show the disturbed situation n India?
 On whose orders is India taking this warning stance?
 Give us your views.
-Zubeer Khan, Karachi
-This is very hurtful incident that Israel is publicly massacring the Palestinians, same situation is here in Kashmir but Security Council do not even bother by it.
-As many organizations who are in Palestine and Kashmir should continue their fight till freedom and by creating unity between themselves keep fighting every kind of aggression, one of these days their Martyr will bring result. By the will of Allah
+Zubair Khan, Karachi
+This is a sad calamity that Israeli is massacring the Palestinians and the same situation is prevalent in Kashmir, but there is no effect on the Security Council.
+All the organisations present in Palestine and Kashmir should keep their war going until they gain independence, and they should form unity among themselves and keep facing any type of harm, and one day or the other their martyrdom will give fruit, God Willing.
 Israeli air attacks still continues in Gaza, since now several Palestinian Men, Women and children have been martyred.
 Important political leader of Hamas Nazarian have been martyred with wife and kids.
 There meeting of Security Council ended without any decision.
@@ -1711,13 +1711,13 @@ Today Pakistan has a democratic government and her husband Asif Ali Zardari is h
 What do you think is the role of martyr Benazir Bhutto in Pakistani politics?
 Who can be behind murdering her?
 Recently,, she was given the global human rights award. What would you like to say about her democratic and political services?
-after ruling America for 8 years, president Bush has departed from the White House and shifted to the president camp office in Camp David so that the White House can be renovated according to the new president Barak Obama's likings.
-During Bush's eight years rule, the historical attacks and destruction of the World Trade Center, attack on Pentagon and then in the name of war against terror, attacking Afghanistan and Iraq and involving forces from other countries into the war and use of American resources in it have become memorable examples of his time.
-due to this war America itself faced the worst ever economical and financial crisis in history.
-what do you think the world achieved and lost through this war?
-were the policies of Bush successful?
-what is your opinion on president Bush's rule?
-the Indian government has stopped the Indian cricket team from visiting Pakistan.
+After ruling over America for eight years, President Bush left the White House, for presidential camp office, Camp David, so that the White House can be decorated and prepared for new President Barack Obama, according to his wishes.
+In Bush's eight year presidency, the historic World Trade Center attack, the attack on the Pentagon, the action against Afghanistan and Iraq in the name of a global war against terrorism, in which armies of many countries were pulled into the war, and American resources were completely exhausted, were some of the memorable events of the Bush era.
+As a result of this war, America had to face the worst economic and financial crisis in history.
+What do you think the world got and what do you think they lost, as a result of this war?
+Were the policies of President Bush successful?
+What are your views of the Bush era?
+The Indian government has stopped the Indian cricket team from touring Pakistan.
 The Indian cricket team was supposed to play three tests, five one day matches and one 20-20, during the tour of Pakistan.
 Rajiv Shekhla, the Vice President of the Indian Cricket Board, in an interview with Jeev News said that the board had asked the government for permission to go on the Pakistan tour, but due to the difficult situation in the two countries, the tour was not possible.
 Is the Indian government's decision to cancel the trip in view of the present political situation a proper step? Should sports not be separated from politics?
@@ -1748,14 +1748,14 @@ what would you say on this incident?
 The tension between Pakistan and India's relations after the terrorism in Mumbai got further intense when the fighter planes from the Indian Air force violated the Pakistani airspace in Lahore and Kashmir sectors.
 as a result of retaliation from Pak Air force, the Indian planes were forced to go back.
 sources say that both Indian planes were loaded with ammunition.
-There are many problems faced the people in the world. It is not under the control of human beings.
-I think it is mainly by people not think properly, what is the real cause.
-The consequence of the fact that it is very dangerous to face the problems that arise in the world future.
-Today itself start for the well beings of the people
-What did the people seriously think about that?
-Poverty, financial crisis, diseases are the main challenges that people going to face in the world in future.
-Why did the people think about the consequences of the dangerous calamities affected the people?
-Start today for that. Are you ready.
+This is the first of its kind incident in the current tensed situation.
+Pakistan Air Force says that Air Force is all set for country's air defense.
+Information Minister Sherry Rahman says that Indian officials have accepted that aerial boundaries have been crossed. Although, this happened by mistake.
+Pakistan military sources have declared this incident felonious.
+In your opinion, does India really have an intention of air strike on Pakistan?
+Is this statement of India correct that this violation was a mistake or this was to find out the ability of Pakistan Air force.
+Is this incident not going to aggravate the current estrangement among the two countries?
+Please inform us with your comments.
 Respected martyr Benazir Bhutto was given the International Award for Human Rights after her death, which was received by her son and chairperson of the People's Party Bilawal Bhutto Zardari.
 During a session of General Assembly in United Nations headquarters, former prime minister of Pakistan, martyr Benazir Bhutto was presented with this award for acknowledgment of her efforts for human rights in a ceremony.
 The 60th anniversary of the passing of the human rights resolution by the United Nations was celebrated on the 10th of December.
@@ -1771,13 +1771,13 @@ Jami Noor, Karachi, This news proves that disbelievers will only help disbelieve
 Until the metal of the axe has a grip attached to it till then it cannot chop off the wings.
 And our leaders have a idea of this therefore they are using it to make secret plans.
 God help our leaders.
-The security council of United Nations included the names of Hafiz Saeed and 3 other Pakistani's along with the Jamat Al Dawa and 5 other groups into the Terrorists list.
-The Taliban and Al Qaeda sanctions committee of the United Nations gave the approval of including the names of the following individuals into the Terrorists list, they are Hafiz Muhammad Saeed of Jameetae Dawa, The operations Chief of Lashkarae Tayyaba Hafeez Zaki ur Rehman and leader of Shoiaba Al Maliyat Haji Muhammad Ashraf.
-other than these a Saudi individual Mehmood Ahmed Bazeek has also been included in the Terrorist list.
-Among these groups Jametae Dawa, Pasbane Kashmir, Al Rasheed Trust and Al Akhtar Trust International are included.
-The allied nations will instantly cease their accounts and funds, and have sanctions on travel and they will be arrested.
-They will face a formal trial.
-Are these sanctions under the influence of Indian propaganda?
+The Security Council panel of the United Nations have included the name of Hafiz Sa'eed as well as two other Pakistani citizens and that of Jama'athud Da'wah as well as four other organisations into the list of terrorists.
+The Pakistanis whose names were included in the terrorist list by the Al-Qaidah and Taliban Sanctions Committee of the Security Council included Jama'athud Da'ah chief, Hafiz Mohammad Saeed, practically non-existent organisation Lashkar-e-Taiba Operation Chief, Zakiur Rahman Lakhwi and Financial Chief Haji Mohammad Ashraf.
+Apart from this, a saudi national, Mahmood Ahmad Bazek was also included in the list of terrorists.
+Among the organisations were Jama'athud Da'wah, Pasban Kashmir, ArRasheed trust, and Al-Akhtar trust International.
+The member countries will immediately freeze all the assets of these individuals and organisations, they will be restricted from traveling and will be under arrest.
+They will have to face cases.
+These regulations are not as a result of Indian influence, are they?
 Why is India blaming these parties for the Bombay attacks without any proof?
 Aren't there any terrorist groups in India?
 Are International groups not aware of the tortures being done on the minorities in India?

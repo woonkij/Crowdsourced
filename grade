@@ -34,8 +34,9 @@ answerList = [sourceDict, referenceDict, candidateDict, workerDict]
 
 # Grading Starts
 # Opens student-generated file: "output.txt"
-file = open(opts.generated_txt)
-generated_output = file.readlines()
+
+# file = open(opts.generated_txt)
+generated_output = sys.stdin.readlines()
 
 cumScore = 0
 
