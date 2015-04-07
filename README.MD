@@ -2,9 +2,7 @@ CIS 526 Machine Translation Final Project on Crowdsourced Translation
 
 Milestone
 
-1. March 31 - Default and Objective function due (default, grade)
 
-2. April 2 - revised write-up is due, taking into account any feedback from instructor and TA. This will be published on the course web site.3. 
 
 3. April 7 - your baseline system is due
 
