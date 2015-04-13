@@ -57,6 +57,42 @@ def smoothedBLEU(hypothesis, reference):
     return score
 
 
+def constructBLEUDict(refDict, hypDict):
+    bleuDict = {}
+    main_keys = refDict.keys()
+
+    refLen = len(refDict.keys())
+    hypLen = len(hypDict.keys())
+
+    # maxlen = 0
+    # for i in xrange(1, len(hypDict) + 1):
+    #     temp = hypDict[i]
+    #     temp1 = len(temp[0])
+    #     temp2 = len(temp[1])
+    #     temp3 = len(temp[2])
+    #     temp4 = len(temp[3])
+    #
+    #     tempmax = max(temp1,temp2,temp3,temp4)
+    #     maxlen = max(maxlen, tempmax)
+    # print maxlen
+    Y = np.empty([refLen, 1], dtype='S500')
+
+    ctr = 0
+    bleu1 = 0
+    bleu2 = 0
+    bleu3 = 0
+    bleu4 = 0
+    bleu = [0.0, 0.0, 0.0, 0.0]
+    for idx in xrange(1, len(hypDict) + 1):
+        for refIdx in xrange(4):
+            for hypIdx in xrange(4):
+                print hypDict[idx][hypIdx], refDict[idx][refIdx]
+                bleu[hypIdx] = bleu[hypIdx] + smoothedBLEU(hypDict[idx][hypIdx], refDict[idx][refIdx])
+
+        bleu = [float(item / 4) for item in bleu]
+        print bleu, idx
+
+
 
 def parseFile(path):
     file = open(path)
@@ -77,7 +113,7 @@ def parseFile(path):
         sourceDict[i] = sentenceList[1] #URDU
         referenceDict[i] = sentenceList[2:6]
         candidateDict[i] = sentenceList[6:10]
-        workerDict[i] = sentenceList[11:]
+        workerDict[i] = sentenceList[10:]
 
     answerList = [sourceDict, referenceDict, candidateDict, workerDict]
     return answerList
@@ -89,49 +125,65 @@ def constructWorkerFeature(path):
 
     header = txt[0].split()
     print header
-
     #number of translators = 51
     #thus, the features are 51 + 6(native eng, native urdu, location india, location paki, yrsEnglish, yrsUrdu)
-
     #return the dictionary regarding the information of the worker
     workerFeatureDict = {}
+    EnglishYrCtr = 0
+    UrduYrCtr = 0
 
     for i in xrange(1, len(txt)):
         row = txt[i].split()
-        workerFeatureDict[row[0]] = row
+        id = row[0]
 
+        #Process of encoding YES into 1, while NO into 0
+        row = [1 if item =='YES' else item for item in row]
+        row = [0 if item == 'NO' else item for item in row]
+
+        #Calculating Mean value for #ofYrs Speaking English and Urdu
+        if row[5] == 'UNKNOWN':
+            pass
+        else:
+            EnglishYrCtr += int(row[5])
+
+        if row[6] == 'UNKNOWN':
+            pass
+        else:
+            UrduYrCtr += int(row[6])
+
+        workerFeatureDict[id] = row
+
+    EnglishYrCtr = EnglishYrCtr / (len(txt) - 1)
+    UrduYrCtr = UrduYrCtr / (len(txt) - 1)
+
+
+
+    #Manually fixing obviously wrong value
+    workerFeatureDict['a2iouac3vzbks6'][5] = int(EnglishYrCtr)
+    workerFeatureDict['a2iouac3vzbks6'][6] = int(UrduYrCtr)
+
+    #DATA PREPROCESSING
+    #UPDATE two unknown values to 0.5 for whether that person is native in English or Urdu
+    #UPDATE UNKNOWN yrs of speaking language with mean value
     for key in workerFeatureDict.keys():
-        print workerFeatureDict[key]
+        if workerFeatureDict[key][1] == 'UNKNOWN':
+            workerFeatureDict[key][1] = 0.5
+
+        if workerFeatureDict[key][2] == 'UNKNOWN':
+            workerFeatureDict[key][1] = 0.5
+
+        if workerFeatureDict[key][5] == 'UNKNOWN':
+            workerFeatureDict[key][5] = int(EnglishYrCtr)
+
+        if workerFeatureDict[key][6] == 'UNKNOWN':
+            workerFeatureDict[key][6] = int(UrduYrCtr)
 
 
-def constructBLEUFeature(path):
-    print "Constructing Feature with BLEU"
-    file = open(path)
-    txt = file.readlines()
+    # for key in workerFeatureDict.keys():
+    #     print workerFeatureDict[key]
+    #['WorkerID', 'IsEnglishNative', 'IsUrduNative', 'LocationIndia', 'LocationPakistan', 'YearSpeakingEnglish', 'YearSpeakingUrdu']
+    return workerFeatureDict
 
-    referenceDict = {}
-    candidateDict = {}
-    sourceDict = {}
-    workerDict = {}
-
-    header = txt[0].split("\t")
-    print header
-
-    for i in xrange(1, len(txt)):
-        sentenceList = txt[i].split("\t")
-        sourceDict[i] = sentenceList[1] #URDU
-        referenceDict[i] = sentenceList[2:6]
-        candidateDict[i] = sentenceList[6:10]
-        workerDict[i] = sentenceList[11:]
-
-    answerList = [sourceDict, referenceDict, candidateDict, workerDict]
-
-    X_BleuFeature = np.empty([len(txt) - 1, 4], dtype='f')
-    #print X_BleuFeature.shape
-
-    for i in xrange(1, len(txt)):
-        ref1 = referenceDict[i][0]
-        ref2 = 
 
 
 
@@ -139,13 +191,24 @@ def constructBLEUFeature(path):
 
 if __name__ == "__main__":
     print "Start"
-    #filepath = os.path.relpath('data/train_translations.tsv') #actual data
-    #parsedDataList = parseFile(filepath)
+    filepath = os.path.relpath('data/train_translations.tsv') #actual data
+    parsedDataList = parseFile(filepath)
+    #[sourceDict, referenceDict, candidateDict, workerDict]
+    refDict = parsedDataList[1]
+    candidateDict = parsedDataList[2]
+
+
+    # for i in xrange(1, len(candidate) + 1):
+    #     print refDict[i]
+    #     print candidateDict[i]
+
+    #CONSTRUCT BLEUDICT
+    constructBLEUDict(refDict, candidateDict)
 
 
     #worker feature
-    #filepath = os.path.relpath('data/survey.tsv') #worker feature
-    #constructWorkerFeature(filepath)
+    filepath = os.path.relpath('data/survey.tsv') #worker feature
+    workerFeatureDict = constructWorkerFeature(filepath)
 
-    filepath = os.path.relpath('data/train_translations.tsv')
-    constructBLEUFeature(filepath)
+    #filepath = os.path.relpath('data/train_translations.tsv')
+
