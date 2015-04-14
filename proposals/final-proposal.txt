@@ -20,12 +20,16 @@ Mainly, there are three data files:
 - translations.tsv
 - survey.tsv
 - postedited_translations.tsv
+- train_postedited_translations.tsv
+- train_translations.tsv
+- test_translations.tsv
 
 	- translations.tsv: this file contains the source sentence, four LDC-translated (professional) sentences, four Turk-translated (non-professional) sentences, and four worker identification string which match each non-professional sentence with each worker identification string.
 
 	- survey.tsv: this file contains information on Turk-translators (non-professional translators) in the following categories: native English speaker, native Urdu speaker, current residency in India, current residency in Pakistan, years of speaking English, and years of speaking Urdu.
 
 	- postedited_translations.tsv: this file contains the post-edited versions of the translations, and the ranking judgement about their quality. The file is edited by Turkers who are currently residing in US (so as to have better results; the edits were made in spellings, typos, awkward word choices and grammar). For each source sentence, there are total 10 post-edited non-professionally translated sentences along with the editor's worker identification string.
+
 
 
 For the assignment, survey.tsv and postedited_translations.tsv will be available to students as supplementary files that may be used to generate features for Machine Learning. For translations.tsv file, it will be pre-processed prior to distributing the file to the students.
@@ -39,7 +43,19 @@ For the assignment, survey.tsv and postedited_translations.tsv will be available
 6. Baseline Implementation
 # 
 
-7. Possible Extensions
-	- ML-based approach using the worker's id features
-	- ML-based approach using the smoohed-BLEU score feature among non-professionaly translated sentences
-	- #
+7. Extensions
+	A. Extension1 : Machine Learning based approach using AdaBoost Regression.
+	- Worker-based Features (binary feature for each Turk worker, total 51)
+	- Worker-based Features (binary feature for native English, native Urdu, currently living in India, currently living in Pakistan)
+	- Worker-based Features (numeric feature for the number of years speaking English and Urdu)
+	- For each feature, there were ambiguous / weird / 'empty' data. For instance, one of the worker reported that he has been speaking English and Urdu for 100 years.
+	- For such werid data and empty data (marked with 'UNKNOWN') in the number of years of speaking English and Urdu, such values have been replaced by the sample mean (from other 40-50 workers).
+	- For 'UNKNOWN' response in reporting whether a Turker is native in English or Urdu, I have assigned a value of 0.5
+	- Sentence-level feature randomly generated: the proportion of length of candidate (sentence translated by Turker) sentence divided by the length of original Urdu sentence.
+	- Another sentence-level feature: length of unique words found in candidate sentence by Turker (1 out of 4) divided by the length of unique words found in all four candidate sentences.
+	- The reasoning behind this method:
+	
+
+	B. Extension2 :	
+	
+		  
