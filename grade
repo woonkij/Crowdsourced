@@ -28,7 +28,7 @@ for i in xrange(1, len(txt)):
     sourceDict[i] = sentenceList[1] #Urdu
     referenceDict[i] = sentenceList[2:6] #Professionally translated LDC sentences
     candidateDict[i] = sentenceList[6:10] #Non-professionally translated sentences
-    workerDict[i] = sentenceList[10:] #Individual worker id
+    workerDict[i] = sentenceList[11:] #Individual worker id
 
 answerList = [sourceDict, referenceDict, candidateDict, workerDict]
 

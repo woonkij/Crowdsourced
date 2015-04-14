@@ -4,14 +4,10 @@ How many sentences (with all reference sentences visible) are we going to provid
 
 
 2. The division of the files
-   Let's divide the translations.tsv file into the following way:
+Let's divide the translations.tsv file into the following way:
 	A. train_translations.tsv: (Contains all reference data, and 358 sentences + 1 header; so total 359 lines)
 	B. test_translations.tsv: (Contains SegID, Urdu, Turk_Translation_1, Turk_Translation_2, Turk_Translation_3, Turk_Translation_4, WorkerID_1, WorkerID_2, WorkerID_3, WorkerID_4)
 
 
 
 
-3. Update on additional files:
-
-UrEn-NIST09_mturk_rank-labels
-UrEn-NIST09_mturk_translations+edits
