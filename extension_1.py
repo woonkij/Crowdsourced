@@ -373,7 +373,7 @@ def trainAndformatML(Y_train, train_refDict, train_candidateDict, train_workerDi
 
 if __name__ == "__main__":
     print "Start"
-    filepath = os.path.relpath('data/train_translations.tsv') #actual data
+    filepath = os.path.relpath('data-train/train_translations.tsv') #actual data
     parsedDataList = parseFile(filepath)
 
     train_refDict = parsedDataList[1]
@@ -384,11 +384,11 @@ if __name__ == "__main__":
     Y_train = constructBLEUDict(train_refDict, train_candidateDict)
 
     #WORKER FEATURE
-    filepath = os.path.relpath('data/survey.tsv') #worker feature
+    filepath = os.path.relpath('data-train/survey.tsv') #worker feature
     workerFeatureDict = constructWorkerFeature(filepath)
 
     #TEST DICT
-    filepath = os.path.relpath('data/test_translations.tsv')
+    filepath = os.path.relpath('data-test/test_translations.tsv')
     parsedTestData = parseTestFile(filepath)
     entire_sourceDict = parsedTestData[0]
     test_candidateDict = parsedTestData[1]
