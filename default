@@ -14,7 +14,7 @@ file = open(opts.input)
 txt = file.readlines()
 header = txt[0]
 
-# Due to the format of the data, preprocessing is done to generate 
+# Due to the format of the data, preprocessing is done to generate:
 # Reference Dictionary (each source sentence has 4 reference sentences)
 # Candidate Dictionary (each source sentence has 4 candidate sentences) 
 # Source Dictionary (original Urdu sentence)
