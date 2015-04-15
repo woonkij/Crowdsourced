@@ -9,9 +9,9 @@ from sklearn.svm import SVC
 from sklearn.grid_search import GridSearchCV
 
 optparser = optparse.OptionParser()
-optparser.add_option("-r", "--readTranslationFiles", dest="input", default="data/translations.tsv",
+optparser.add_option("-r", "--readTranslationFiles", dest="input", default="data-others/translations.tsv",
                      help="Read Translation Files.")
-optparser.add_option("-s", "--readSurvey", dest='survey', default='data/survey.tsv')
+optparser.add_option("-s", "--readSurvey", dest='survey', default='data-train/survey.tsv')
 optparser.add_option("-d", "--baselineData", dest='data', default=None, help="Data for learning algorithms")
 (opts, _) = optparser.parse_args()
 
@@ -71,11 +71,11 @@ if opts.data is None:
         for ID in workerDict[i]:
             feats[i] += workerFeatures[ID]
 
-    with open(r'data/data.json', 'w') as fp:
+    with open(r'data-train/data.json', 'w') as fp:
         json.dump([feats, best_idx, candidateDict], fp, default=str)
 
 else:
-    with open(r'data/data.json', 'rb') as fp:
+    with open(r'data-train/data.json', 'rb') as fp:
         feats, best_idx, candidateDict = json.load(fp)
 
 
