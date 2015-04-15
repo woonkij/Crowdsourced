@@ -17,6 +17,8 @@ optparser.add_option("-d", "--baselineData", dest='data', default=None, help="Da
 
 if opts.data is None:
 
+    ############### Preprocessing steps for survey.tsv --> workerFeatures
+
     # substitute strings in survey.tsv
     sub = {'YES': 1, 'NO': 0, 'UNKNOWN': float('NaN')}
 
@@ -49,11 +51,14 @@ if opts.data is None:
         candidateDict[i] = sentenceList[6:10]  # Turkers translated
         workerDict[i] = sentenceList[10:]
 
-    best_idx = {}  # labels for supervised training
+    best_idx = {}  # labels for supervised training - index of best translation
     feats = {}  # corresponding worker-level features
 
     ######### build dataset
     for i in xrange(1, len(candidateDict) + 1):
+
+        ########## compute smoothed bleu scores for each candidate translation, pick the best one
+
         scores = [0.0 for _ in candidateDict[i]]
 
         for (j, candidate) in enumerate(candidateDict[i]):
@@ -67,9 +72,13 @@ if opts.data is None:
 
         best_idx[i] = np.argmax(scores)
 
+        ######### create feature vector - map turker ID's for each row to corresponding attributes in workerFeatures
+
         feats[i] = []
         for ID in workerDict[i]:
             feats[i] += workerFeatures[ID]
+
+    ###### store data for quick access next time
 
     with open(r'data-train/data.json', 'w') as fp:
         json.dump([feats, best_idx, candidateDict], fp, default=str)
@@ -97,8 +106,12 @@ sys.stderr.write("Training classifier(s)...\n")
 
 np.random.seed(1)
 
+# fit Random Forest on training data
+
 rf = RandomForestClassifier(n_estimators=150)
 rf.fit(X_train, y_train)
+
+# # Support Vector Machine - grid search for best parameters
 
 # svm_param_grid = [
 # {'C': [1, 10, 100, 1000], 'kernel': ['linear']},
@@ -109,7 +122,7 @@ rf.fit(X_train, y_train)
 # svm = svc.fit(X_train, y_train).best_estimator_
 
 
-# predicts index of best translation (0,1,2, or 3)
+# predicts index of best translation (0,1,2, or 3) for remaining (test) data
 predictions = rf.predict(X)
 
 
@@ -117,17 +130,18 @@ predictions = rf.predict(X)
 
 ################# write output to file
 
-# out = open("baseline_output.txt", 'w')
-
 if opts.data is None:
     for (i, p) in enumerate(predictions):
+        # choose the sentence that corresponds to the prediction
         sys.stdout.write(candidateDict[i + 1][p] + '\n')
+
+# a bit different if the data was read from previously stored .json file
 else:
     for (i, p) in enumerate(predictions):
         sys.stdout.write(candidateDict[str(i + 1)][p].encode('utf-8') + '\n')
 
-# out.close()
 
+################ Oracle output (ignore)
 
 # out = open("oracle_output.txt", 'w')
 
