@@ -217,7 +217,7 @@ for i in xrange(1, len(train_workerDict.keys()) + 1):
 
 sys.stderr.write("Start Adaboost Training\n")
 Y_train = np.ravel(Y_train)
-clf = AdaBoostRegressor(n_estimators=1000, loss='exponential')
+clf = AdaBoostRegressor(n_estimators=500, loss='exponential')
 clf.fit(X_train, Y_train)
 
 #NEED TO TEST
