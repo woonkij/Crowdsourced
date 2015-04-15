@@ -2,8 +2,8 @@
 
 import optparse, json, sys
 from smoothedBLEU import smoothedBLEU
-import numpy as np
 import models
+import numpy as np
 from sklearn.preprocessing import Imputer
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.svm import SVC
@@ -54,6 +54,7 @@ if opts.data is None:
     best_idx = {}  # labels for supervised training
     feats = {}  # corresponding worker-level features
 
+    # load language model (borrowed from homework 2)
     lm = models.LM(opts.lm)
 
     ######### build dataset
