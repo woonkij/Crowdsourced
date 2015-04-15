@@ -5,8 +5,8 @@ import math
 
 # READ the data (translations.tsv)
 optparser = optparse.OptionParser()
-optparser.add_option("-r", "--readTranslationFiles", dest="input", default="data/translations.tsv", help="Read Translation Files.")
-
+optparser.add_option("-r", "--readTranslationFiles", dest="input", default="data-test/test_translations.tsv", help="Read Translation Files.")
+optparser.add_option("-d", "--defaultData", dest="data", default=None, help="Write data")
 (opts, _) = optparser.parse_args()
 
 # Open the data file, and start parsing
@@ -19,7 +19,6 @@ header = txt[0]
 # Candidate Dictionary (each source sentence has 4 candidate sentences) 
 # Source Dictionary (original Urdu sentence)
 # Worker Dictionary (individual non-professional's id assigned from Amazon. Possibly used in ML extensions)
-referenceDict = {}
 candidateDict = {}
 sourceDict = {}
 workerDict = {}
@@ -27,18 +26,24 @@ workerDict = {}
 for i in xrange(1, len(txt)):
     sentenceList = txt[i].split("\t")
     sourceDict[i] = sentenceList[1] #Urdu
-    referenceDict[i] = sentenceList[2:6] #Professionally translated LDC sentences
-    candidateDict[i] = sentenceList[6:10] #Non-professionally translated sentences
-    workerDict[i] = sentenceList[11:] #Individual worker id
+    candidateDict[i] = sentenceList[2:6] #Professionally translated LDC sentences
+    workerDict[i] = sentenceList[6:10] #Non-professionally translated sentences
+    #workerDict[i] = sentenceList[11:] #Individual worker id
 
-answerList = [sourceDict, referenceDict, candidateDict, workerDict]
 
 
 #START DEFAULT OUTPUT
-write = open("output.txt", 'w')
+#write = open("output.txt", 'w')
 
 #DEFAULT: Choose first candidate sentence among 4 possible sentences
-for i in xrange(1, len(candidateDict) + 1):
-    write.write(str(candidateDict[i][0]) + '\n')
-write.close()
+# for i in xrange(1, len(candidateDict) + 1):
+#     write.write(str(candidateDict[i][0]) + '\n')
+# write.close()
+
+if opts.data is None:
+	for i in xrange(1, len(candidateDict) + 1):
+		sys.stdout.write(candidateDict[i][0] + '\n')
+else:
+	for i in xrange(1, len(candidateDict) + 1):
+		sys.stdout.write(candidateDict[i][0] + '\n')
 
