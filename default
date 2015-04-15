@@ -15,7 +15,6 @@ txt = file.readlines()
 header = txt[0]
 
 # Due to the format of the data, preprocessing is done to generate:
-# Reference Dictionary (each source sentence has 4 reference sentences)
 # Candidate Dictionary (each source sentence has 4 candidate sentences) 
 # Source Dictionary (original Urdu sentence)
 # Worker Dictionary (individual non-professional's id assigned from Amazon. Possibly used in ML extensions)
@@ -26,19 +25,11 @@ workerDict = {}
 for i in xrange(1, len(txt)):
     sentenceList = txt[i].split("\t")
     sourceDict[i] = sentenceList[1] #Urdu
-    candidateDict[i] = sentenceList[2:6] #Professionally translated LDC sentences
-    workerDict[i] = sentenceList[6:10] #Non-professionally translated sentences
-    #workerDict[i] = sentenceList[11:] #Individual worker id
-
-
-
-#START DEFAULT OUTPUT
-#write = open("output.txt", 'w')
+    candidateDict[i] = sentenceList[2:6] #Non-professionally translated sentences
+    workerDict[i] = sentenceList[6:10] #Individual worker id
 
 #DEFAULT: Choose first candidate sentence among 4 possible sentences
-# for i in xrange(1, len(candidateDict) + 1):
-#     write.write(str(candidateDict[i][0]) + '\n')
-# write.close()
+
 
 if opts.data is None:
 	for i in xrange(1, len(candidateDict) + 1):
